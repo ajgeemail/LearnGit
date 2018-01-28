@@ -13,3 +13,4 @@ Extremely risky and specific to me, while someone else works on master
 
 // Conflict - master has 3, MyBranch has 4
 Change 3
+change 4
