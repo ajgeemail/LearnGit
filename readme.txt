@@ -7,3 +7,6 @@ Here I'm going to add a bunch of lifechanging, project modifying, potentially ha
 
 // Fork 1b - more risk
 Here is more risk I'm unsure I want.
+
+// Fork 2 - MyBranch specific changes.
+Extremely risky and specific to me, while someone else works on master
