@@ -10,3 +10,6 @@ Here is more risk I'm unsure I want.
 
 // Fork 2 - MyBranch specific changes.
 Extremely risky and specific to me, while someone else works on master
+
+// Conflict - master has 3, Mybranch has 4
+change 4
