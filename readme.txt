@@ -5,12 +5,20 @@ change 2
 // Fork 1 - risk
 Here I'm going to add a bunch of lifechanging, project modifying, potentially harmful code that I'm not sure if I want to keep.
 
-// Fork 1b - more risk
+// Fork 1b - more risk180508 master - 
 Here is more risk I'm unsure I want.
 
-// Fork 2 - MyBranch specific changes.
+180508 master - 
+
+180508 master - // Fork 2 - MyBranch specific changes.
 Extremely risky and specific to me, while someone else works on master
 
-// Conflict - master has 3, MyBranch has 4
+180508 master - // Conflict - master has 3, MyBranch has 4
 Change 3
 change 4
+
+// Some master changes right here
+
+180508 master - master
+
+180508 master - master
