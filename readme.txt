@@ -20,11 +20,9 @@ Extremely risky and specific to me, while someone else works on master
 Change 3
 change 4
 
-<<<<<<< HEAD
 // Some master changes right here
 
 180508 mybranch - and probably down here too
 180508 mybranch - 
 180508 mybranch - and maybe here
 180508 mybranch - 
->>>>>>> mybranch
